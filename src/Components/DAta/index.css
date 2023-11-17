@@ -1,0 +1,15 @@
+table{
+ border-collapse: collapse;
+margin: 20px;
+border: 1px solid black;
+
+}
+th,tr,td{
+    
+    border-collapse: collapse;
+    border: 1px solid black;   
+}
+.search{
+    margin-left: 20px;
+    width: 600px;
+}
